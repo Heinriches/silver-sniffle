@@ -15,5 +15,7 @@ public class Ex2p14{
         System.out.println("1 2 3 4");
         System.out.println("1 2 3 4");
         System.out.println("1 2 3 4");
+
+        System.out.printf("%s", "1 2 3 4");
     }
 }
