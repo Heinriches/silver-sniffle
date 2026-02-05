@@ -28,9 +28,9 @@ public class Ex2p15{
 		diferenca = (numero1 - numero2);
 		quociente = (numero1 / numero2);
 		
-		System.out.printf("SOMA = %d %n", soma);
-		System.out.printf("PRODUTO = %d %n", produto);
-		System.out.printf("DIFERENÇA = %d %n", diferenca);
+		System.out.printf("SOMA = %.2f %n", soma);
+		System.out.printf("PRODUTO = %.2f %n", produto);
+		System.out.printf("DIFERENÇA = %.2f %n", diferenca);
 		System.out.printf("QUOCIENTE = %.2f %n", quociente);
 				
 	}
