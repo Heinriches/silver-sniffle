@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class Ex2.p16{
+public class Ex2p16{
 	public static void main(String[] args){
 		
 		Scanner sc = new Scanner(System.in);
