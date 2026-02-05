@@ -31,7 +31,7 @@ public class Ex2p15{
 		System.out.printf("SOMA = %d %n", soma);
 		System.out.printf("PRODUTO = %d %n", produto);
 		System.out.printf("DIFERENÇA = %d %n", diferenca);
-		System.out.printf("QUOCIENTE = %.2f", quociente);
+		System.out.printf("QUOCIENTE = %.2f %n", quociente);
 				
 	}
 }
