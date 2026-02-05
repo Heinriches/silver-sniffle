@@ -14,8 +14,9 @@ public class Ex2p15{
 		
 		Scanner sc = new Scanner(System.in);
 		
-		int numero1, numero2, soma, produto, diferenca;
-		float quociente;
+		double numero1, numero2;
+		int soma, produto, diferenca;
+		double quociente;
 		
 		System.out.println("Digite o valor do PRIMEIRO número: ");
 		numero1 = sc.nextInt();
